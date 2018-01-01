@@ -26,6 +26,6 @@ mvn clean test
 ```
 
 ##
-### Referencd
+### References
 - https://www.youtube.com/watch?v=rdgJ8fOxJhc&feature=youtu.be
 - https://www.youtube.com/watch?v=Cj4foJzPF80&feature=youtu.be
