@@ -13,6 +13,10 @@
 *.ipr
 target/
 
+.mvn/
+mvnw
+mvnw.cmd
+
 ### NetBeans ###
 nbproject/private/
 build/
